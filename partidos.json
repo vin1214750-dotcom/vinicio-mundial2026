@@ -1,0 +1,11 @@
+let
+    Source = Json.Document(Web.Contents("https://cdn.jsdelivr.net/gh/vinicio-mundial2026/partidos.json")),
+    ToTable = Table.FromList(Source, Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+    Expand = Table.ExpandRecordColumn(
+        ToTable,
+        "Column1",
+        {"id", "fecha", "hora", "grupo", "local", "visitante", "goles_local", "goles_visitante", "estadio", "ciudad"},
+        {"ID", "Fecha", "Hora", "Grupo", "Local", "Visitante", "Goles_Local", "Goles_Visitante", "Estadio", "Ciudad"}
+    )
+in
+    Expand
