@@ -1,0 +1,11 @@
+[
+  { "grupo": "A", "equipo": "México", "codigo": "MEX" },
+  { "grupo": "A", "equipo": "Estados Unidos", "codigo": "USA" },
+  { "grupo": "A", "equipo": "Canadá", "codigo": "CAN" },
+
+  { "grupo": "B", "equipo": "Argentina", "codigo": "ARG" },
+  { "grupo": "B", "equipo": "Brasil", "codigo": "BRA" },
+  { "grupo": "B", "equipo": "Uruguay", "codigo": "URU" }
+
+  // … completa el resto de grupos y equipos
+]
