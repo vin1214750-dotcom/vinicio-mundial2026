@@ -1,4 +1,19 @@
 [
   { "nombre": "Estadio Azteca", "ciudad": "Ciudad de México", "pais": "México", "capacidad": 87000 },
-  { "nombre": "MetLife Stadium", "ciudad": "East Rutherford", "pais": "Estados Unidos", "capacidad": 82500 }
+  { "nombre": "Estadio Akron", "ciudad": "Guadalajara", "pais": "México", "capacidad": 48000 },
+  { "nombre": "Estadio BBVA", "ciudad": "Monterrey", "pais": "México", "capacidad": 53000 },
+
+  { "nombre": "MetLife Stadium", "ciudad": "East Rutherford", "pais": "Estados Unidos", "capacidad": 82500 },
+  { "nombre": "AT&T Stadium", "ciudad": "Arlington", "pais": "Estados Unidos", "capacidad": 80000 },
+  { "nombre": "Mercedes-Benz Stadium", "ciudad": "Atlanta", "pais": "Estados Unidos", "capacidad": 71000 },
+  { "nombre": "NRG Stadium", "ciudad": "Houston", "pais": "Estados Unidos", "capacidad": 72000 },
+  { "nombre": "SoFi Stadium", "ciudad": "Inglewood", "pais": "Estados Unidos", "capacidad": 70000 },
+  { "nombre": "Levi's Stadium", "ciudad": "Santa Clara", "pais": "Estados Unidos", "capacidad": 68500 },
+  { "nombre": "Lumen Field", "ciudad": "Seattle", "pais": "Estados Unidos", "capacidad": 68000 },
+  { "nombre": "Gillette Stadium", "ciudad": "Foxborough", "pais": "Estados Unidos", "capacidad": 65000 },
+  { "nombre": "Lincoln Financial Field", "ciudad": "Philadelphia", "pais": "Estados Unidos", "capacidad": 67000 },
+  { "nombre": "Hard Rock Stadium", "ciudad": "Miami", "pais": "Estados Unidos", "capacidad": 65000 },
+
+  { "nombre": "BMO Field", "ciudad": "Toronto", "pais": "Canadá", "capacidad": 45000 },
+  { "nombre": "BC Place", "ciudad": "Vancouver", "pais": "Canadá", "capacidad": 54000 }
 ]
