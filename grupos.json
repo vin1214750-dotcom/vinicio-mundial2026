@@ -6,6 +6,4 @@
   { "grupo": "B", "equipo": "Argentina", "codigo": "ARG" },
   { "grupo": "B", "equipo": "Brasil", "codigo": "BRA" },
   { "grupo": "B", "equipo": "Uruguay", "codigo": "URU" }
-
-  // … completa el resto de grupos y equipos
 ]
