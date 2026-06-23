@@ -1,0 +1,5 @@
+[
+  { "nombre": "Estadio Azteca", "ciudad": "Ciudad de México", "pais": "México", "capacidad": 87000 },
+  { "nombre": "MetLife Stadium", "ciudad": "East Rutherford", "pais": "Estados Unidos", "capacidad": 82500 }
+  // … más estadios
+]
