@@ -1,11 +1,28 @@
-let
-    Source = Json.Document(Web.Contents("https://cdn.jsdelivr.net/gh/vinicio-mundial2026/partidos.json")),
-    ToTable = Table.FromList(Source, Splitter.SplitByNothing(), null, null, ExtraValues.Error),
-    Expand = Table.ExpandRecordColumn(
-        ToTable,
-        "Column1",
-        {"id", "fecha", "hora", "grupo", "local", "visitante", "goles_local", "goles_visitante", "estadio", "ciudad"},
-        {"ID", "Fecha", "Hora", "Grupo", "Local", "Visitante", "Goles_Local", "Goles_Visitante", "Estadio", "Ciudad"}
-    )
-in
-    Expand
+[
+  {
+    "id": 1,
+    "fecha": "2026-06-11",
+    "hora": "18:00",
+    "grupo": "A",
+    "local": "México",
+    "visitante": "Canadá",
+    "goles_local": null,
+    "goles_visitante": null,
+    "estadio": "Estadio Azteca",
+    "ciudad": "Ciudad de México"
+  },
+  {
+    "id": 2,
+    "fecha": "2026-06-11",
+    "hora": "21:00",
+    "grupo": "A",
+    "local": "Estados Unidos",
+    "visitante": "Canadá",
+    "goles_local": null,
+    "goles_visitante": null,
+    "estadio": "MetLife Stadium",
+    "ciudad": "East Rutherford"
+  }
+
+  // … resto del fixture
+]
