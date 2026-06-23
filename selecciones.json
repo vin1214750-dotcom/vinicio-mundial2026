@@ -3,5 +3,4 @@
   { "equipo": "Estados Unidos", "codigo": "USA", "confederacion": "CONCACAF" },
   { "equipo": "Canadá", "codigo": "CAN", "confederacion": "CONCACAF" },
   { "equipo": "Argentina", "codigo": "ARG", "confederacion": "CONMEBOL" }
-  // … resto de selecciones
 ]
