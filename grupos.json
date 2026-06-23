@@ -1,9 +1,61 @@
 [
   { "grupo": "A", "equipo": "México", "codigo": "MEX" },
-  { "grupo": "A", "equipo": "Estados Unidos", "codigo": "USA" },
-  { "grupo": "A", "equipo": "Canadá", "codigo": "CAN" },
+  { "grupo": "A", "equipo": "Francia", "codigo": "FRA" },
+  { "grupo": "A", "equipo": "Qatar", "codigo": "QAT" },
+  { "grupo": "A", "equipo": "Nueva Zelanda", "codigo": "NZL" },
 
-  { "grupo": "B", "equipo": "Argentina", "codigo": "ARG" },
-  { "grupo": "B", "equipo": "Brasil", "codigo": "BRA" },
-  { "grupo": "B", "equipo": "Uruguay", "codigo": "URU" }
+  { "grupo": "B", "equipo": "Estados Unidos", "codigo": "USA" },
+  { "grupo": "B", "equipo": "Colombia", "codigo": "COL" },
+  { "grupo": "B", "equipo": "Suecia", "codigo": "SWE" },
+  { "grupo": "B", "equipo": "Egipto", "codigo": "EGY" },
+
+  { "grupo": "C", "equipo": "Canadá", "codigo": "CAN" },
+  { "grupo": "C", "equipo": "Portugal", "codigo": "POR" },
+  { "grupo": "C", "equipo": "Australia", "codigo": "AUS" },
+  { "grupo": "C", "equipo": "Camerún", "codigo": "CMR" },
+
+  { "grupo": "D", "equipo": "Argentina", "codigo": "ARG" },
+  { "grupo": "D", "equipo": "Dinamarca", "codigo": "DEN" },
+  { "grupo": "D", "equipo": "Arabia Saudita", "codigo": "KSA" },
+  { "grupo": "D", "equipo": "Perú", "codigo": "PER" },
+
+  { "grupo": "E", "equipo": "Brasil", "codigo": "BRA" },
+  { "grupo": "E", "equipo": "Alemania", "codigo": "GER" },
+  { "grupo": "E", "equipo": "Irán", "codigo": "IRN" },
+  { "grupo": "E", "equipo": "Costa de Marfil", "codigo": "CIV" },
+
+  { "grupo": "F", "equipo": "Uruguay", "codigo": "URU" },
+  { "grupo": "F", "equipo": "España", "codigo": "ESP" },
+  { "grupo": "F", "equipo": "Uzbekistán", "codigo": "UZB" },
+  { "grupo": "F", "equipo": "Nigeria", "codigo": "NGA" },
+
+  { "grupo": "G", "equipo": "Inglaterra", "codigo": "ENG" },
+  { "grupo": "G", "equipo": "Ecuador", "codigo": "ECU" },
+  { "grupo": "G", "equipo": "Japón", "codigo": "JPN" },
+  { "grupo": "G", "equipo": "Senegal", "codigo": "SEN" },
+
+  { "grupo": "H", "equipo": "Países Bajos", "codigo": "NED" },
+  { "grupo": "H", "equipo": "Chile", "codigo": "CHI" },
+  { "grupo": "H", "equipo": "Corea del Sur", "codigo": "KOR" },
+  { "grupo": "H", "equipo": "Marruecos", "codigo": "MAR" },
+
+  { "grupo": "I", "equipo": "Italia", "codigo": "ITA" },
+  { "grupo": "I", "equipo": "Venezuela", "codigo": "VEN" },
+  { "grupo": "I", "equipo": "Turquía", "codigo": "TUR" },
+  { "grupo": "I", "equipo": "Senegal", "codigo": "SEN" },
+
+  { "grupo": "J", "equipo": "Croacia", "codigo": "CRO" },
+  { "grupo": "J", "equipo": "Suiza", "codigo": "SUI" },
+  { "grupo": "J", "equipo": "Polonia", "codigo": "POL" },
+  { "grupo": "J", "equipo": "Egipto", "codigo": "EGY" },
+
+  { "grupo": "K", "equipo": "Serbia", "codigo": "SRB" },
+  { "grupo": "K", "equipo": "Austria", "codigo": "AUT" },
+  { "grupo": "K", "equipo": "Hungría", "codigo": "HUN" },
+  { "grupo": "K", "equipo": "Chile", "codigo": "CHI" },
+
+  { "grupo": "L", "equipo": "Bélgica", "codigo": "BEL" },
+  { "grupo": "L", "equipo": "Ucrania", "codigo": "UKR" },
+  { "grupo": "L", "equipo": "Irán", "codigo": "IRN" },
+  { "grupo": "L", "equipo": "Camerún", "codigo": "CMR" }
 ]
